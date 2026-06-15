@@ -1,0 +1,32 @@
+{
+  "name": "task-manager-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A polished React task management app with filters, priorities, due dates, and local persistence.",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sandra-os/task-manager-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Sandra-os/task-manager-app/issues"
+  },
+  "homepage": "https://github.com/Sandra-os/task-manager-app#readme",
+  "engines": {
+    "node": ">=20.19.0"
+  },
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "vite build",
+    "preview": "vite preview --host 127.0.0.1"
+  },
+  "dependencies": {
+    "lucide-react": "^0.468.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.0.2",
+    "vite": "^8.0.16"
+  }
+}
