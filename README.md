@@ -1,6 +1,6 @@
 # Task Manager App
 
-A polished React task management application built as a portfolio-ready project. It helps users capture tasks, organize work by priority and due date, search quickly, and keep progress saved in the browser with `localStorage`.
+A React task manager for capturing tasks, organizing work by priority and due date, and searching task details. Tasks persist in the browser with `localStorage`.
 
 ## Features
 
